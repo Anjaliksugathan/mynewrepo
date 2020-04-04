@@ -1,0 +1,6 @@
+sudo su - oracle 
+ 
+2)ps -ef|grep pmon 
+. oraenv 
+3) sqlplus / as sysdba  
+ 

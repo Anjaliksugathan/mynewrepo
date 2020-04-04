@@ -1,0 +1,20 @@
+BULK WINDOWS ALERTS TT: 6167766
+We have received bulk alerts post the restoration of monitoring in WDC location (Server - enl8-mtems-01v)
+
+The alerts are all resolved now.We have validated and found the servers and services to be up and running.
+
+
+
+MWatch Agents Down in Ptest
+
+
+
+
+
+ 7 Ptest servers were up but agent was down in the servers.We tried to restart the agent but we were getting HQ Server/port connectivity not available  error.
+
+When checked with core team , and after updating the agent.setup.camPword in the server we were able to restart the agent.
+
+Currently all the servers/agents are up and running fine.
+
+ 
